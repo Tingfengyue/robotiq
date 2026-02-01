@@ -15,7 +15,7 @@
 
 ```bash
 cd ~/catkin_ws/src
-git clone https://github.com/cambel/robotiq.git
+git clone [https://github.com/cambel/robotiq.git](https://github.com/Tingfengyue/robotiq.git)
 ```
 
 安装依赖：
