@@ -1,4 +1,4 @@
-# robotiq
+# robotiq noetic-devel
 
 用于 Robotiq C-Model 系列夹爪/控制器的 ROS 元包，提供基于 Modbus 的 TCP 与 RTU（串口）控制节点、消息与示例启动文件。适用于如 Robotiq 2F-85 + K-1363 控制器等设备，也可与 UR e-series 上的 Hand-e 使用。
 
